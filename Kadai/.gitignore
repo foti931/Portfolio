@@ -1,2 +1,5 @@
 /client-app/node_modules/
 /client-app/public/picture.jpg
+bin
+obj
+.vs/
